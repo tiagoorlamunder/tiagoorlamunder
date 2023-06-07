@@ -1,7 +1,7 @@
 ## 🤔 About me
 - 👋🏻 Hi, I’m Tiago Orlamünder
 - 🌴 I'm from Brazil
-- 🔬 I currently work with data quality but I want to move to software development area
+- 🔬 I currently work with data quality
 
 ## ☘ More about me
 - 🏆 I really like HTML, CSS, JS, React, Python and MySql
